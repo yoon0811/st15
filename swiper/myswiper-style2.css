@@ -35,11 +35,11 @@ progressbar와 nav button을 나란히 레이아웃배치
   height: var(--myswiper-padding-bottom);
 }
 
-.myname .myswiper-util>div{
-  /* flex-grow: 0;
+/* .myname .myswiper-util>div{
+  flex-grow: 0;
   flex-shrink: 1;
-  flex-basis: auto; */
-}
+  flex-basis: auto; 
+} */
 
 /********
  siwper navigation 
