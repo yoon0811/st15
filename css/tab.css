@@ -1,0 +1,18 @@
+.main_product_category {
+  margin: 100px auto;
+}
+
+.main_product_inner {}
+
+.main_title .main_title_txt01 {
+  font-size: calc(16px + (28 - 18) * ((100vw - 370px) / (1760 - 370)));
+  line-height: 1.2;
+  font-weight: 700;
+  color: var(--ub-font-title-color);
+}
+
+.main_title .main_title_txt01 {
+  font-size: calc(12px + (20 - 12) * ((100vw - 370px) / (1760 - 370)));
+  line-height: 1.2;
+  color: var(--ub-font-title-color);
+}
